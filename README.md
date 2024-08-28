@@ -18,4 +18,4 @@ Esta es una aplicación simple de gestión de tareas en Python que permite agreg
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/Horacio1991/TP-Prog2-01.git>
